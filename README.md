@@ -43,7 +43,7 @@
 
 ### 🌸 Current Mood  
 
-  <em>“Coding in silence, dreaming in color.”</em>
+  <em>Coding in silence, dreaming in color.</em>
 </p>
 
 ---
