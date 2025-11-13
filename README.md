@@ -1,11 +1,4 @@
-Perfect choice 😎 — both typing animation ✍ and anime-style wave footer 🌊 will make your profile README look alive and aesthetic!
 
-Here’s your final, fully upgraded profile README — clean, elegant, and dripping with anime–dev energy ⚡💮
-
-
----
-
-<!-- 🌸 Anime-Style Profile README for Sabbir -->
 
 <h1 align="center">✨ Hey there, I'm Sabbir — the Aloof Full-Stack Wanderer 🌙</h1>
 
