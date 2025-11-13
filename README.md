@@ -64,7 +64,6 @@
 <p align="center">
 <a href="https://instagram.com/ivtenx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://pinterest.com/ivtenx" target="_blank"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
-</p>
   <a href="https://github.com/ivtenx" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="sabbirrafi1000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -75,7 +74,8 @@
   <img src="https://www.pinterest.com/pin/3237030977885882/" alt="wave"/>
 </p>
 
-<p align="center">🌑 <em>“Still loading... new version of me.”</em> 🌑</p>
+<p align="center">🌑 <em>“Still loading... IV version of me.”</em> 🌑</p>
 
+<img src="https://imgur.com/a/OXD4kIo" width = "100%">
 
 ---
