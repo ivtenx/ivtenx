@@ -1,6 +1,6 @@
 
 
-<h1 align="center">✨ Hey there, I'm Sabbir — the Aloof Full-Stack Wanderer 🌙</h1>
+<h1 align="center">👋 Hey there, I'm Sabbir — the Aloof Full-Stack Wanderer 🌙</h1>
 
 <p align="center">
   <img src="https://media.tenor.com/6jW2M9p6pGAAAAAC/anime-hacker.gif" width="400px">
