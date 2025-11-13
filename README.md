@@ -20,7 +20,7 @@
 - 🧠 *Full-Stack Developer* (MERN + Python)  
 - 💻 I build *interactive front-ends* & *scalable back-ends*  
 - 🌙 Personality: Calm, *aloof*, and quietly obsessed with clean design  
-- 🎓 From a *Communication* background — proving logic beats labels  
+- 🎓 From a *Telecomm* background — proving logic beats labels  
 - 🌸 I love mixing *anime aesthetics* with modern dev projects  
 
 ---
