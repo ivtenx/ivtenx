@@ -76,6 +76,6 @@
 
 <p align="center">🌑 <em>“Still loading... IV version of me.”</em> 🌑</p>
 
-<img src="https://imgur.com/a/OXD4kIo" width = "100%"/>
+<img src="https://imgur.com/a/OXD4kIo" width = "100%" style="max-width:150px"/>
 
 ---
