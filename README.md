@@ -42,8 +42,7 @@
 ---
 
 ### 🌸 Current Mood  
-<p align="center">
-  <img src="https://media.tenor.com/ZtC1sM0Fv0EAAAAC/anime-chill.gif" width="200px"/><br>
+
   <em>“Coding in silence, dreaming in color.”</em>
 </p>
 
