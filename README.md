@@ -69,13 +69,5 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://www.pinterest.com/pin/3237030977885882/" alt="wave"/>
-</p>
-
 <p align="center">🌑 <em>“Still loading... IV version of me.”</em> 🌑</p>
-
-<img src="https://imgur.com/a/OXD4kIo" alt = 'nothing' width = "100%" style="max-width:150px"/>
-
 ---
