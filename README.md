@@ -2,16 +2,6 @@
 
 <h1 align="center">👋 Hey there, I'm Sabbir — the Aloof Full-Stack Wanderer 🌙</h1>
 
-<p align="center">
-  <img src="https://media.tenor.com/6jW2M9p6pGAAAAAC/anime-hacker.gif" width="400px">
-</p>
-
----
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8CF7E2&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+%2B+Python+Developer;Calm+but+Code-Obsessed;Anime+Aesthetic+Lover+🌸;Commerce+Student+%E2%9C%94%EF%B8%8F;Building+the+future+in+silence+%F0%9F%8C%99" alt="Typing SVG" />
-</h3>
-
 ---
 
 ### 🧭 About Me  
